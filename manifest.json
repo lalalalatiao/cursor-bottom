@@ -1,0 +1,10 @@
+{
+	"id": "cursor-bottom",
+	"name": "Cursor Bottom",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Move cursor to the bottom of the document with a single shortcut. 一键将光标移动到文档底部。",
+	"author": "Obsidian User",
+	"authorUrl": "",
+	"isDesktopOnly": false
+} 
